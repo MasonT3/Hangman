@@ -71,9 +71,9 @@ public class HangmanLogic {
 			System.out.println("  |");
 			System.out.print("     |"); //body
 			System.out.println("  |");
-			System.out.print("     /");//left leg
+			System.out.print("    /");//left leg
 			System.out.print(" \\"); //right leg
-			System.out.println("|");
+			System.out.println(" |");
 			System.out.println("    -----");
 		}
 		if (this.amountOfFaults == 5){
